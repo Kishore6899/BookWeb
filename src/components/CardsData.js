@@ -1,0 +1,111 @@
+const Cardsdata = [{
+        id: 1,
+        rname: "The Truths We Hold",
+        imgdata: "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/715/9780525560715.jpg",
+        address: "Kamala Harris",
+        delimg: "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/715/9780525560715.jpg",
+        somedata: " 1175 + order placed from here recently",
+        price: 350,
+        rating: "3.8",
+        arrimg: "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/715/9780525560715.jpg",
+        qnty: 0
+    },
+    {
+        id: 2,
+        rname: "Think Like A Monk",
+        imgdata: "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/597/9780008386597.jpg",
+        address: "Jay Shetty",
+        delimg: "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/597/9780008386597.jpg",
+        somedata: " 2525 + order placed from here recently",
+        price: 250,
+        rating: "3.9",
+        arrimg: "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/597/9780008386597.jpg",
+        qnty: 0
+    },
+    {
+        id: 3,
+        rname: " The Jungle Book",
+        imgdata: "https://th.bing.com/th/id/OIP.UsnJniTXfsDr3zthHEr0KwHaLI?pid=ImgDet&rs=1",
+        address: "Rudyard Kipling",
+        delimg: "https://th.bing.com/th/id/OIP.UsnJniTXfsDr3zthHEr0KwHaLI?pid=ImgDet&rs=1",
+        somedata: " 650 + order placed from here recently",
+        price: 700,
+        rating: "4.2",
+        arrimg: "https://th.bing.com/th/id/OIP.UsnJniTXfsDr3zthHEr0KwHaLI?pid=ImgDet&rs=1",
+        qnty: 0
+    },
+    {
+        id: 4,
+        rname: "The Shining",
+        imgdata: "https://images-na.ssl-images-amazon.com/images/I/51YTAy1edwL._SX324_BO1,204,203,200_.jpg",
+        address: "Stephen King ",
+        delimg: "https://images-na.ssl-images-amazon.com/images/I/51YTAy1edwL._SX324_BO1,204,203,200_.jpg",
+        somedata: " 300 + order placed from here recently",
+        price: 750,
+        rating: "3.8",
+        arrimg: "https://images-na.ssl-images-amazon.com/images/I/51YTAy1edwL._SX324_BO1,204,203,200_.jpg",
+        qnty: 0
+    },
+    {
+        id: 5,
+        rname: "Attack on Titan",
+        imgdata: "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/244/9781612620244.jpg",
+        address: "Haime Isayama",
+        delimg: "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/244/9781612620244.jpg",
+        somedata: "1050 + order placed from here recently",
+        price: 2100,
+        rating: "4.0",
+        arrimg: "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/244/9781612620244.jpg",
+        qnty: 0
+    },
+    {
+        id: 6,
+        rname: "The Girl and The Ghost",
+        imgdata: "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/964/9780062940964.jpg",
+        address: "Hanna Alkaf",
+        delimg: "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/964/9780062940964.jpg",
+        somedata: " 1100 + order placed from here recently",
+        price: 100,
+        rating: "3.8",
+        arrimg: "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/964/9780062940964.jpg",
+        qnty: 0
+    },
+    {
+        id: 7,
+        rname: "Harry Potter and the Philosopher's Stone",
+        imgdata: "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/652/9781408855652.jpg",
+        address: "J.K. Rowling",
+        delimg: "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/652/9781408855652.jpg",
+        somedata: "500 + order placed from here recently",
+        price: 900,
+        rating: "3.8",
+        arrimg: "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/652/9781408855652.jpg",
+        qnty: 0
+    },
+    {
+        id: 8,
+        rname: "The Time Machine",
+        imgdata: "https://editorial.designtaxi.com/news-mahlebooks2005/1.jpg",
+        address: "HG.Wells",
+        delimg: "https://editorial.designtaxi.com/news-mahlebooks2005/1.jpg",
+        somedata: "500 + order placed from here recently",
+        price: 100,
+        rating: "3.2",
+        arrimg: "https://editorial.designtaxi.com/news-mahlebooks2005/1.jpg",
+        qnty: 0
+    },
+    {
+        id: 9,
+        rname: "Go Like Hell",
+        imgdata: "https://images-na.ssl-images-amazon.com/images/I/41CH93cmD2L._SX330_BO1,204,203,200_.jpg",
+        address: " A.J Baime ",
+        delimg: "https://images-na.ssl-images-amazon.com/images/I/41CH93cmD2L._SX330_BO1,204,203,200_.jpg",
+        somedata: "2525 + order placed from here recently",
+        price: 1000,
+        rating: "3.8",
+        arrimg: "https://images-na.ssl-images-amazon.com/images/I/41CH93cmD2L._SX330_BO1,204,203,200_.jpg",
+        qnty: 0
+    },
+];
+
+export default Cardsdata;
